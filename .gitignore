@@ -1,2 +1,6 @@
 .idea/
 *.py[cod]
+logs/log*
+migratisons/
+.DS_Store
+.qiniu*
